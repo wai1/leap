@@ -1,5 +1,7 @@
 # Leap
 
+Please note: I wrote the leap.cpp and leap.h files. I did not write leap_test.cpp file. Thanks, Walt
+
 Given a year, report if it is a leap year.
 
 The tricky thing here is that a leap year in the Gregorian calendar occurs:
